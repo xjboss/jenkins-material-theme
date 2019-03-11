@@ -115,6 +115,10 @@ http://afonsof.mit-license.org/
 
 - [@afonsof][afonsof] make exciting jenkins theme
 
+- [@jsdelivr][jsdelivr] Free CDN service
+
+- [@lolinet][lolinet] Free CDN service
+
 [simple]: https://wiki.jenkins-ci.org/display/JENKINS/Simple+Theme+Plugin
 [google]: https://www.google.com/design/spec/material-design/introduction.html
 [material-design-icons]: https://materialdesignicons.com/
@@ -122,3 +126,5 @@ http://afonsof.mit-license.org/
 [canon-jenkins]: https://github.com/rackerlabs/canon-jenkins
 [heldroe]: https://github.com/Heldroe
 [afonsof]: http://afonsof.com
+[jsdelivr]: https://jedelivr.net
+[lolinet]: https://css.loli.net
