@@ -113,7 +113,7 @@ http://afonsof.mit-license.org/
 
 - [@Heldroe][heldroe] for Firefox and Microsoft support
 
-- [@afonsof][afonsof] make very exciting jenkins theme
+- [@afonsof][afonsof] make exciting jenkins theme
 
 [simple]: https://wiki.jenkins-ci.org/display/JENKINS/Simple+Theme+Plugin
 [google]: https://www.google.com/design/spec/material-design/introduction.html
@@ -121,3 +121,4 @@ http://afonsof.mit-license.org/
 [stylish]: https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe
 [canon-jenkins]: https://github.com/rackerlabs/canon-jenkins
 [heldroe]: https://github.com/Heldroe
+[afonsof]: http://afonsof.com
