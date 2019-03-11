@@ -23,7 +23,7 @@ You can turn your favorite frog CI tool into a handsome prince in few steps! Ins
 1. Choose your color:
 ![image](http://afonsof.com/jenkins-material-theme/images/pallete.png)
 
-2. Replace `{{your-color-name}}` in the URL by the chosen color: `https://cdn.rawgit.com/afonsof/jenkins-material-theme/gh-pages/dist/material-{{your-color-name}}.css`
+2. Replace `{{your-color-name}}` in the URL by the chosen color: `https://cdn.jsdelivr.net/gh/xjboss/jenkins-material-theme@dist/dist/material-{{your-color-name}}.css`
 
 3. Install [Jenkins Simple Theme Plugin][simple]
 
@@ -112,6 +112,8 @@ http://afonsof.mit-license.org/
 - [canon-jenkins][canon-jenkins] for the base theme
 
 - [@Heldroe][heldroe] for Firefox and Microsoft support
+
+- [@afonsof][afonsof] make very exciting jenkins theme
 
 [simple]: https://wiki.jenkins-ci.org/display/JENKINS/Simple+Theme+Plugin
 [google]: https://www.google.com/design/spec/material-design/introduction.html
